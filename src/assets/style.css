@@ -1,0 +1,9 @@
+.main-component {
+  color: red;
+  font-size: 16px;
+  text-align: center;
+}
+
+.listas {
+  list-style: none;
+}
